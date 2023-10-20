@@ -54,3 +54,15 @@ TODO: Ask reviewers to upload produced figures/tables during their checking of t
 
 cf. https://proofartifacts.github.io/guidelines/
 Check assumptions?
+
+
+# Relevant resources:
+
+- SIGPLAN's checklist https://www.sigplan.org/Resources/EmpiricalEvaluation/
+- ACM's official page https://www.acm.org/publications/policies/artifact-review-and-badging-current
+- ECOOP'23 call: https://2023.ecoop.org/track/ecoop-2023-artifacts#Call-for-Artifacts
+- SPLASH'23 call: https://2023.splashcon.org/track/splash-2023-Artifacts#Call-for-Artifacts
+- Other communities:
+  + OSDI call for artifact: https://www.usenix.org/conference/osdi23/call-for-artifacts
+  + Usenix https://www.usenix.org/conference/usenixsecurity22/artifact-appendix-guidelines
+  
